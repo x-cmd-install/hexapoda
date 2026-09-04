@@ -7,7 +7,7 @@ about:
   head: bf8bd62
   archived: false
   latestVersion: v1.0.0
-  collectedAt: 2026-09-04T19:55:59Z
+  collectedAt: 2026-09-04T20:49:25Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-08-03
@@ -81,5 +81,38 @@ total:
   openIssue: 1
   commit: 135
 ---
+path: /home/runner/.x-repo/github.com/simonomi/hexapoda
+collectedAt: 2026-09-04T20:49:26Z
+loc:
+  Rust:
+    code: 4174
+    comments: 90
+    blanks: 929
+    files: 31
+  Svg:
+    code: 131
+    comments: 0
+    blanks: 0
+    files: 2
+  Swift:
+    code: 62
+    comments: 0
+    blanks: 16
+    files: 1
+  Toml:
+    code: 42
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 41
+    blanks: 9
+    files: 2
+total:
+  code: 4409
+  comments: 134
+  blanks: 963
+  files: 37
 ---
 
