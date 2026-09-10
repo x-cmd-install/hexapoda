@@ -4,7 +4,7 @@
 
 a colorful modal hex editor
 
-![hexapoda](https://repo.x-cmd.io/hexapoda.svg)
+![hexapoda](https://repo.x-cmd.io/hexapoda.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install hexapoda
 - **最新版本**: `v1.0.0` (2026-08-03)
 - **最近提交**: 2026-08-03
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-08-03T10:08:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hexapoda-linux-arm-v1.0.0.tar.gz](https://github.com/simonomi/hexapoda/releases/download/v1.0.0/hexapoda-linux-arm-v1.0.0.tar.gz) | 767.4 KiB | `native/linux/arm` |
+| [hexapoda-linux-x86_64-v1.0.0.tar.gz](https://github.com/simonomi/hexapoda/releases/download/v1.0.0/hexapoda-linux-x86_64-v1.0.0.tar.gz) | 791.3 KiB | `native/linux/x64` |
+| [hexapoda-macOS-arm-v1.0.0.tar.gz](https://github.com/simonomi/hexapoda/releases/download/v1.0.0/hexapoda-macOS-arm-v1.0.0.tar.gz) | 724.6 KiB | `native/darwin/x64` |
+| [hexapoda-macOS-intel-v1.0.0.tar.gz](https://github.com/simonomi/hexapoda/releases/download/v1.0.0/hexapoda-macOS-intel-v1.0.0.tar.gz) | 750.4 KiB | `native/darwin/x64` |
+| [hexapoda-Windows-arm-v1.0.0.zip](https://github.com/simonomi/hexapoda/releases/download/v1.0.0/hexapoda-Windows-arm-v1.0.0.zip) | 545.6 KiB | `native/win/x64` |
+| [hexapoda-Windows-x86_64-v1.0.0.zip](https://github.com/simonomi/hexapoda/releases/download/v1.0.0/hexapoda-Windows-x86_64-v1.0.0.zip) | 574.3 KiB | `native/win/x64` |
 
 ## 流行度
 
@@ -62,4 +72,4 @@ hexapoda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:10:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:50Z._
