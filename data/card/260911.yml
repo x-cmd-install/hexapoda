@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: "v0.2.2"
-  collectedAt: 2026-09-11T05:18:17Z
+  collectedAt: 2026-09-11T19:41:33Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-08-03
@@ -84,7 +84,7 @@ total:
   commit: 135
 ---
 path: /home/runner/.x-repo/github.com/simonomi/hexapoda
-collectedAt: 2026-09-11T05:18:17Z
+collectedAt: 2026-09-11T19:41:38Z
 loc:
   Rust:
     code: 4174
