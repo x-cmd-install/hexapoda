@@ -66,3 +66,16 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: hexapoda
+  binname: hexapoda
+  visiblename: hexapoda
+  version: 1.0.0
+  origversion: 1.0.0_1
+  status: newest
+  summary: Colorful modal hex editor
+  maintainers:
+    - void@placeviolette.net
+  licenses:
+    - GPL-3.0-only
