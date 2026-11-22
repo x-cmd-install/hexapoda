@@ -48,12 +48,12 @@ Total: **4,409** lines of code across **37** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-25 | 2 | 0 | 0 | 1 | 0 | 0 |
-| 360d | 2025-11-26 | 6 | 0 | 0 | 2 | 1 | 0 |
-| last720d | 2024-12-01 | 6 | 0 | 0 | 2 | 1 | 135 |
+| 30d | 2026-10-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-26 | 2 | 0 | 0 | 1 | 0 | 13 |
+| 360d | 2025-11-27 | 6 | 0 | 0 | 2 | 1 | 134 |
+| last720d | 2024-12-02 | 6 | 0 | 0 | 2 | 1 | 135 |
 
 ## Release assets
 
@@ -68,11 +68,12 @@ Total: **4,409** lines of code across **37** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/hexapoda). **5** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/hexapoda). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.0.0` | ✅ latest |
+| Void | `1.0.0` | ✅ latest |
 | openSUSE Tumbleweed | `1.0.0` | ✅ latest |
 
 ## Improve this data
@@ -84,4 +85,4 @@ Install metadata for hexapoda lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:19:48Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:03:48Z._
